@@ -1,1 +1,0 @@
-#ejemplo de practica 1 
